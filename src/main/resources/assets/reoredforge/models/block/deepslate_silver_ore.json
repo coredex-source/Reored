@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "reoredforge:block/deepslate_silver_ore",
+    "particle": "reoredforge:block/deepslate_silver_ore"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "reoredforge:item/copper_axe"
+  }
+}
