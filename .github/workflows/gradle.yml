@@ -35,7 +35,7 @@ jobs:
 
     - name: Build with Gradle Wrapper
       run: ./gradlew build
-    - uses: "actions/upload-artifact@v3"
+    - uses: "actions/upload-artifact@v4"
       with:
         name: "Reored"
         path: "build/libs/*.jar"
