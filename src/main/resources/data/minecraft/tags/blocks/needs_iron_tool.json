@@ -1,7 +1,7 @@
 {
   "replace": false,
   "values": [
-    "reoredforge:deepslate_silver_ore",
-    "reoredforge:silver_ore"
+    "reoredneoforge:deepslate_silver_ore",
+    "reoredneoforge:silver_ore"
   ]
 }
