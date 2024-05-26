@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "reoredforge:blocks/deepslate_silver_ore",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "reoredforge:raw_silver"
+        }
+      ]
+    }
+  ]
+}
