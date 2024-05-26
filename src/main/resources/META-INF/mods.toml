@@ -3,9 +3,15 @@ loaderVersion="[2,)"
 license="All Rights Reserved"
 
 [[mods]]
+<<<<<<< HEAD
 modId="reoredneoforge"
 version="0.0.0.0.7"
 displayName="Re-Ored-NeoForge"
+=======
+modId="reoredforge"
+version="0.0.0.0.7"
+displayName="Re-Ored"
+>>>>>>> parent of bae68df (Added:-)
 displayURL="https://mcreator.net"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 authors="Coredex"
@@ -13,6 +19,7 @@ authors="Coredex"
 # Start of user code block mod configuration
 # End of user code block mod configuration
 
+<<<<<<< HEAD
 [[dependencies.reoredneoforge]]
     modId="neoforge"
     type="required"
@@ -21,6 +28,9 @@ authors="Coredex"
     side="BOTH"
 
 [[dependencies.reoredneoforge]]
+=======
+[[dependencies.reoredforge]]
+>>>>>>> parent of bae68df (Added:-)
     modId="minecraft"
     type="required"
     versionRange="[1.20.4]"
