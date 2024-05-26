@@ -3,9 +3,9 @@ loaderVersion="[47,)"
 license="All Rights Reserved"
 
 [[mods]]
-modId="reoredforge"
+modId="reoredfabric"
 version="0.0.0.0.7"
-displayName="Re-Ored"
+displayName="Re-Ored-Fabric"
 displayURL="https://mcreator.net"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 authors="Coredex"
@@ -13,7 +13,7 @@ authors="Coredex"
 # Start of user code block mod configuration
 # End of user code block mod configuration
 
-[[dependencies.reoredforge]]
+[[dependencies.reoredfabric]]
     modId="minecraft"
     mandatory=true
     versionRange="[1.20.1]"
