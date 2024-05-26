@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "reoredforge:block/silver_ore",
-    "particle": "reoredforge:block/silver_ore"
-  },
-  "render_type": "solid"
-}
