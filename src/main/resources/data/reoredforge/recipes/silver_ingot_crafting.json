@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "reoredforge:silver_nugget"
+    }
+  },
+  "result": {
+    "item": "reoredforge:silver_ingot",
+    "count": 1
+  }
+}

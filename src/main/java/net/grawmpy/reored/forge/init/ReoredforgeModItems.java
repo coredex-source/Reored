@@ -12,6 +12,14 @@ import net.minecraft.world.level.block.Block;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.BlockItem;
 
+import net.grawmpy.reored.forge.item.SiverPickaxeItem;
+import net.grawmpy.reored.forge.item.SilverSwordItem;
+import net.grawmpy.reored.forge.item.SilverShovelItem;
+import net.grawmpy.reored.forge.item.SilverNuggetItem;
+import net.grawmpy.reored.forge.item.SilverIngotItem;
+import net.grawmpy.reored.forge.item.SilverHoeItem;
+import net.grawmpy.reored.forge.item.SilverAxeItem;
+import net.grawmpy.reored.forge.item.RawSilverItem;
 import net.grawmpy.reored.forge.item.OakArmorItem;
 import net.grawmpy.reored.forge.item.CopperSwordItem;
 import net.grawmpy.reored.forge.item.CopperShovelItem;
@@ -38,6 +46,14 @@ public class ReoredforgeModItems {
 	public static final RegistryObject<Item> COPPER_ARMOR_BOOTS = REGISTRY.register("copper_armor_boots", () -> new CopperArmorItem.Boots());
 	public static final RegistryObject<Item> SILVER_ORE = block(ReoredforgeModBlocks.SILVER_ORE);
 	public static final RegistryObject<Item> DEEPSLATE_SILVER_ORE = block(ReoredforgeModBlocks.DEEPSLATE_SILVER_ORE);
+	public static final RegistryObject<Item> SILVER_SWORD = REGISTRY.register("silver_sword", () -> new SilverSwordItem());
+	public static final RegistryObject<Item> RAW_SILVER = REGISTRY.register("raw_silver", () -> new RawSilverItem());
+	public static final RegistryObject<Item> SILVER_INGOT = REGISTRY.register("silver_ingot", () -> new SilverIngotItem());
+	public static final RegistryObject<Item> SILVER_NUGGET = REGISTRY.register("silver_nugget", () -> new SilverNuggetItem());
+	public static final RegistryObject<Item> SIVER_PICKAXE = REGISTRY.register("siver_pickaxe", () -> new SiverPickaxeItem());
+	public static final RegistryObject<Item> SILVER_AXE = REGISTRY.register("silver_axe", () -> new SilverAxeItem());
+	public static final RegistryObject<Item> SILVER_SHOVEL = REGISTRY.register("silver_shovel", () -> new SilverShovelItem());
+	public static final RegistryObject<Item> SILVER_HOE = REGISTRY.register("silver_hoe", () -> new SilverHoeItem());
 
 	// Start of user code block custom items
 	// End of user code block custom items
