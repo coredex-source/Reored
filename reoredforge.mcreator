@@ -504,11 +504,11 @@
       "sortid": 35,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "siver_pickaxe",
+      "registry_name": "silver_pickaxe",
       "metadata": {
         "files": [
           "src/main/java/net/grawmpy/reored/forge/item/SiverPickaxeItem.java",
-          "src/main/resources/assets/reoredforge/models/item/siver_pickaxe.json"
+          "src/main/resources/assets/reoredforge/models/item/silver_pickaxe.json"
         ]
       },
       "path": "~/Silver"
@@ -632,7 +632,6 @@
       "item.reoredforge.oak_armor_boots": "Wooden Boots",
       "item.reoredforge.copper_axe": "Copper Axe",
       "item.reored.copper_sword": "Copper Sword",
-      "item.reoredforge.siver_pickaxe": "Siver Pickaxe",
       "item.reored.copper_pickaxe": "Copper Pickaxe",
       "item.reoredforge.copper_armor_chestplate": "Copper Chestplate",
       "item.reoredforge.copper_pickaxe": "Copper Pickaxe",
@@ -658,6 +657,7 @@
       "item_group.reoredforge.reored_tools": "Reored Tools",
       "item.reored.oak_armor_leggings": "Wooden Leggings",
       "item.reored.copper_armor_leggings": "Copper Leggings",
+      "item.reoredforge.silver_pickaxe": "Silver Pickaxe",
       "item.reoredforge.copper_shovel": "Copper Shovel",
       "block.reored.deepslate_silver_ore": "Deepslate Silver Ore",
       "item.reoredforge.oak_armor_chestplate": "Wooden Chestplate",

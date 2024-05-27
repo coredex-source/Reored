@@ -47,6 +47,20 @@
         "state": {
           "Name": "reoredforge:deepslate_silver_ore"
         }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:deepslate",
+            "Properties": {
+              "axis": "y"
+            }
+          }
+        },
+        "state": {
+          "Name": "reoredforge:deepslate_silver_ore"
+        }
       }
     ]
   }
