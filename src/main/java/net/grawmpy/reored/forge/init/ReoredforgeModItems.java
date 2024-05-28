@@ -19,6 +19,7 @@ import net.grawmpy.reored.forge.item.SilverNuggetItem;
 import net.grawmpy.reored.forge.item.SilverIngotItem;
 import net.grawmpy.reored.forge.item.SilverHoeItem;
 import net.grawmpy.reored.forge.item.SilverAxeItem;
+import net.grawmpy.reored.forge.item.SilverArmorItem;
 import net.grawmpy.reored.forge.item.RawSilverItem;
 import net.grawmpy.reored.forge.item.OakArmorItem;
 import net.grawmpy.reored.forge.item.CopperSwordItem;
@@ -54,6 +55,10 @@ public class ReoredforgeModItems {
 	public static final RegistryObject<Item> SILVER_AXE = REGISTRY.register("silver_axe", () -> new SilverAxeItem());
 	public static final RegistryObject<Item> SILVER_SHOVEL = REGISTRY.register("silver_shovel", () -> new SilverShovelItem());
 	public static final RegistryObject<Item> SILVER_HOE = REGISTRY.register("silver_hoe", () -> new SilverHoeItem());
+	public static final RegistryObject<Item> SILVER_ARMOR_HELMET = REGISTRY.register("silver_armor_helmet", () -> new SilverArmorItem.Helmet());
+	public static final RegistryObject<Item> SILVER_ARMOR_CHESTPLATE = REGISTRY.register("silver_armor_chestplate", () -> new SilverArmorItem.Chestplate());
+	public static final RegistryObject<Item> SILVER_ARMOR_LEGGINGS = REGISTRY.register("silver_armor_leggings", () -> new SilverArmorItem.Leggings());
+	public static final RegistryObject<Item> SILVER_ARMOR_BOOTS = REGISTRY.register("silver_armor_boots", () -> new SilverArmorItem.Boots());
 
 	// Start of user code block custom items
 	// End of user code block custom items
