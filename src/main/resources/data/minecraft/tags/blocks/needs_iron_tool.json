@@ -1,6 +1,9 @@
 {
   "replace": false,
   "values": [
+    "reoredforge:deep_iron_block",
+    "reoredforge:deepslate_deep_iron_ore",
+    "reoredforge:deep_iron_ore",
     "reoredforge:deepslate_silver_ore",
     "reoredforge:silver_ore"
   ]

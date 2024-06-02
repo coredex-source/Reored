@@ -23,6 +23,12 @@ public class ReoredforgeModTabs {
 				tabData.accept(ReoredforgeModItems.RAW_SILVER.get());
 				tabData.accept(ReoredforgeModItems.SILVER_INGOT.get());
 				tabData.accept(ReoredforgeModItems.SILVER_NUGGET.get());
+				tabData.accept(ReoredforgeModBlocks.DEEP_IRON_ORE.get().asItem());
+				tabData.accept(ReoredforgeModBlocks.DEEPSLATE_DEEP_IRON_ORE.get().asItem());
+				tabData.accept(ReoredforgeModItems.RAW_DEEP_IRON.get());
+				tabData.accept(ReoredforgeModItems.DEEP_IRON_INGOT.get());
+				tabData.accept(ReoredforgeModItems.DEEP_IRON_NUGGET.get());
+				tabData.accept(ReoredforgeModBlocks.DEEP_IRON_BLOCK.get().asItem());
 			})
 
 					.build());

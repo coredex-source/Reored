@@ -21,7 +21,10 @@ import net.grawmpy.reored.forge.item.SilverHoeItem;
 import net.grawmpy.reored.forge.item.SilverAxeItem;
 import net.grawmpy.reored.forge.item.SilverArmorItem;
 import net.grawmpy.reored.forge.item.RawSilverItem;
+import net.grawmpy.reored.forge.item.RawDeepIronItem;
 import net.grawmpy.reored.forge.item.OakArmorItem;
+import net.grawmpy.reored.forge.item.DeepIronNuggetItem;
+import net.grawmpy.reored.forge.item.DeepIronIngotItem;
 import net.grawmpy.reored.forge.item.CopperSwordItem;
 import net.grawmpy.reored.forge.item.CopperShovelItem;
 import net.grawmpy.reored.forge.item.CopperPickaxeItem;
@@ -59,6 +62,12 @@ public class ReoredforgeModItems {
 	public static final RegistryObject<Item> SILVER_ARMOR_CHESTPLATE = REGISTRY.register("silver_armor_chestplate", () -> new SilverArmorItem.Chestplate());
 	public static final RegistryObject<Item> SILVER_ARMOR_LEGGINGS = REGISTRY.register("silver_armor_leggings", () -> new SilverArmorItem.Leggings());
 	public static final RegistryObject<Item> SILVER_ARMOR_BOOTS = REGISTRY.register("silver_armor_boots", () -> new SilverArmorItem.Boots());
+	public static final RegistryObject<Item> DEEP_IRON_ORE = block(ReoredforgeModBlocks.DEEP_IRON_ORE);
+	public static final RegistryObject<Item> DEEPSLATE_DEEP_IRON_ORE = block(ReoredforgeModBlocks.DEEPSLATE_DEEP_IRON_ORE);
+	public static final RegistryObject<Item> RAW_DEEP_IRON = REGISTRY.register("raw_deep_iron", () -> new RawDeepIronItem());
+	public static final RegistryObject<Item> DEEP_IRON_INGOT = REGISTRY.register("deep_iron_ingot", () -> new DeepIronIngotItem());
+	public static final RegistryObject<Item> DEEP_IRON_NUGGET = REGISTRY.register("deep_iron_nugget", () -> new DeepIronNuggetItem());
+	public static final RegistryObject<Item> DEEP_IRON_BLOCK = block(ReoredforgeModBlocks.DEEP_IRON_BLOCK);
 
 	// Start of user code block custom items
 	// End of user code block custom items
