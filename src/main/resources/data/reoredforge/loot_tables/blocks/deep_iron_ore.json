@@ -12,7 +12,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "reoredforge:deep_iron_ore"
+          "name": "reoredforge:raw_deep_iron"
         }
       ]
     }

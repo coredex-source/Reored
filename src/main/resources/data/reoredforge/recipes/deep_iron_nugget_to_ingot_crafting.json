@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "reoredforge:deep_iron_nugget"
+    }
+  },
+  "result": {
+    "item": "reoredforge:deep_iron_ingot",
+    "count": 1
+  }
+}

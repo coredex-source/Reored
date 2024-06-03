@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "reoredforge:deep_iron_ingot"
+    }
+  ],
+  "result": {
+    "item": "reoredforge:deep_iron_nugget",
+    "count": 9
+  }
+}
