@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "reoredforge:item/deep_iron_hoe"
+  }
+}

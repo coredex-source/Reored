@@ -876,6 +876,151 @@
         ]
       },
       "path": "~/Deep Iron"
+    },
+    {
+      "name": "DeepIronSword",
+      "type": "tool",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deep_iron_sword",
+      "metadata": {
+        "files": [
+          "src/main/java/net/grawmpy/reored/forge/item/DeepIronSwordItem.java",
+          "src/main/resources/assets/reoredforge/models/item/deep_iron_sword.json"
+        ]
+      },
+      "path": "~/Deep Iron"
+    },
+    {
+      "name": "DeepIronPickaxe",
+      "type": "tool",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deep_iron_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/reoredforge/models/item/deep_iron_pickaxe.json",
+          "src/main/java/net/grawmpy/reored/forge/item/DeepIronPickaxeItem.java"
+        ]
+      },
+      "path": "~/Deep Iron"
+    },
+    {
+      "name": "DeepIronAxe",
+      "type": "tool",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deep_iron_axe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/reoredforge/models/item/deep_iron_axe.json",
+          "src/main/java/net/grawmpy/reored/forge/item/DeepIronAxeItem.java"
+        ]
+      },
+      "path": "~/Deep Iron"
+    },
+    {
+      "name": "DeepIronShovel",
+      "type": "tool",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deep_iron_shovel",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/reoredforge/models/item/deep_iron_shovel.json",
+          "src/main/java/net/grawmpy/reored/forge/item/DeepIronShovelItem.java"
+        ]
+      },
+      "path": "~/Deep Iron"
+    },
+    {
+      "name": "DeepIronHoe",
+      "type": "tool",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deep_iron_hoe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/grawmpy/reored/forge/item/DeepIronHoeItem.java",
+          "src/main/resources/assets/reoredforge/models/item/deep_iron_hoe.json"
+        ]
+      },
+      "path": "~/Deep Iron"
+    },
+    {
+      "name": "DeepIronSwordCrafting",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deep_iron_sword_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/reoredforge/recipes/deep_iron_sword_crafting.json"
+        ]
+      },
+      "path": "~/Deep Iron"
+    },
+    {
+      "name": "DeepIronPickaxeCrafting",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deep_iron_pickaxe_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/reoredforge/recipes/deep_iron_pickaxe_crafting.json"
+        ]
+      },
+      "path": "~/Deep Iron"
+    },
+    {
+      "name": "DeepIronAxeCrafting",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deep_iron_axe_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/reoredforge/recipes/deep_iron_axe_crafting.json"
+        ]
+      },
+      "path": "~/Deep Iron"
+    },
+    {
+      "name": "DeepIronShovelCrafting",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deep_iron_shovel_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/reoredforge/recipes/deep_iron_shovel_crafting.json"
+        ]
+      },
+      "path": "~/Deep Iron"
+    },
+    {
+      "name": "DeepIronHoeCrafting",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deep_iron_hoe_crafting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/reoredforge/recipes/deep_iron_hoe_crafting.json"
+        ]
+      },
+      "path": "~/Deep Iron"
     }
   ],
   "variable_elements": [],
@@ -898,6 +1043,7 @@
   },
   "language_map": {
     "en_us": {
+      "item.reoredforge.deep_iron_shovel": "Deep Iron Shovel",
       "item.reored.copper_sword": "Copper Sword",
       "item.reoredforge.copper_armor_chestplate": "Copper Chestplate",
       "item.reoredforge.silver_sword": "Silver Sword",
@@ -915,11 +1061,13 @@
       "item.reored.oak_armor_leggings": "Wooden Leggings",
       "item.reored.copper_armor_leggings": "Copper Leggings",
       "item.reored.oak_armor_chestplate": "Wooden Chestplate",
+      "item.reoredforge.deep_iron_axe": "Deep Iron Axe",
       "item.reoredforge.raw_deep_iron": "Raw Deep Iron",
       "itemGroup.tabreored_tools": "Reored Tools",
       "item.reored.oak_armor_boots": "Wooden Boots",
       "item.reored.copper_armor_chestplate": "Copper Chestplate",
       "item.reoredforge.silver_hoe": "Silver Hoe",
+      "item.reoredforge.deep_iron_sword": "Deep Iron Sword",
       "item.reoredforge.silver_armor_chestplate": "Silver Chestplate",
       "item_group.reoredforge.reored_blocks": "Reored Ores",
       "item.reoredforge.silver_armor_helmet": "Silver Helmet",
@@ -941,6 +1089,7 @@
       "item.reored.copper_shovel": "Copper Shovel",
       "item.reoredforge.copper_sword": "Copper Sword",
       "item_group.reoredforge.reored_tools": "Reored Tools",
+      "item.reoredforge.deep_iron_pickaxe": "Deep Iron Pickaxe",
       "item.reoredforge.silver_pickaxe": "Silver Pickaxe",
       "item.reoredforge.deep_iron_ingot": "Deep Iron Ingot",
       "item.reoredforge.copper_shovel": "Copper Shovel",
@@ -954,7 +1103,8 @@
       "item_group.reoredforge.reored_armory": "Reored Armory",
       "item.reoredforge.silver_armor_leggings": "Silver Leggings",
       "item.reoredforge.silver_ingot": "Silver Ingot",
-      "block.reoredforge.silver_ore": "Silver Ore"
+      "block.reoredforge.silver_ore": "Silver Ore",
+      "item.reoredforge.deep_iron_hoe": "Deep Iron Hoe"
     }
   },
   "foldersRoot": {
@@ -981,11 +1131,12 @@
   "workspaceSettings": {
     "modid": "reoredforge",
     "modName": "Re-Ored",
-    "version": "0.0.0.0.9",
+    "version": "0.0.0.0.10",
     "author": "Coredex",
     "websiteURL": "https://mcreator.net",
     "license": "All Rights Reserved",
     "serverSideOnly": false,
+    "modPicture": "73810221",
     "requiredMods": [],
     "dependencies": [],
     "dependants": [],

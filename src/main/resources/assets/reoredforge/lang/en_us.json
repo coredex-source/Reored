@@ -1,4 +1,5 @@
 {
+  "item.reoredforge.deep_iron_shovel": "Deep Iron Shovel",
   "item.reored.copper_sword": "Copper Sword",
   "item.reoredforge.copper_armor_chestplate": "Copper Chestplate",
   "item.reoredforge.silver_sword": "Silver Sword",
@@ -16,11 +17,13 @@
   "item.reored.oak_armor_leggings": "Wooden Leggings",
   "item.reored.copper_armor_leggings": "Copper Leggings",
   "item.reored.oak_armor_chestplate": "Wooden Chestplate",
+  "item.reoredforge.deep_iron_axe": "Deep Iron Axe",
   "item.reoredforge.raw_deep_iron": "Raw Deep Iron",
   "itemGroup.tabreored_tools": "Reored Tools",
   "item.reored.oak_armor_boots": "Wooden Boots",
   "item.reored.copper_armor_chestplate": "Copper Chestplate",
   "item.reoredforge.silver_hoe": "Silver Hoe",
+  "item.reoredforge.deep_iron_sword": "Deep Iron Sword",
   "item.reoredforge.silver_armor_chestplate": "Silver Chestplate",
   "item_group.reoredforge.reored_blocks": "Reored Ores",
   "item.reoredforge.silver_armor_helmet": "Silver Helmet",
@@ -42,6 +45,7 @@
   "item.reored.copper_shovel": "Copper Shovel",
   "item.reoredforge.copper_sword": "Copper Sword",
   "item_group.reoredforge.reored_tools": "Reored Tools",
+  "item.reoredforge.deep_iron_pickaxe": "Deep Iron Pickaxe",
   "item.reoredforge.silver_pickaxe": "Silver Pickaxe",
   "item.reoredforge.deep_iron_ingot": "Deep Iron Ingot",
   "item.reoredforge.copper_shovel": "Copper Shovel",
@@ -55,5 +59,6 @@
   "item_group.reoredforge.reored_armory": "Reored Armory",
   "item.reoredforge.silver_armor_leggings": "Silver Leggings",
   "item.reoredforge.silver_ingot": "Silver Ingot",
-  "block.reoredforge.silver_ore": "Silver Ore"
+  "block.reoredforge.silver_ore": "Silver Ore",
+  "item.reoredforge.deep_iron_hoe": "Deep Iron Hoe"
 }
