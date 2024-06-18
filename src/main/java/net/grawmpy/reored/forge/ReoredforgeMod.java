@@ -5,7 +5,7 @@ import org.apache.logging.log4j.LogManager;
 
 import net.minecraftforge.network.SimpleChannel;
 import net.minecraftforge.network.NetworkRegistry;
-import net.minecraftforge.NetworkEvent;
+import net.minecraftforge.event.NetworkEvent;
 import net.minecraftforge.fml.util.thread.SidedThreadGroups;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import net.minecraftforge.fml.common.Mod;
